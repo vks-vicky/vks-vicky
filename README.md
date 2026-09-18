@@ -6,7 +6,7 @@ RESUME: [G-Drive](https://drive.google.com/file/d/1KGsmof6iaBs1AVWg4fkU_8AVToDpx
 
 ## 🚀 About Me
 - Upcoming Systems Engineer @TCS
-- Ex SDE Intern @Waste Samaritan, Frontend Intern @Valocoach.ai
+- Ex-SDE Intern @Waste Samaritan, Frontend Intern @Valocoach.ai
 - Always eager to explore and learn new technologies & approaches
 - AWS Certified Cloud Practitioner, Oracle Certified Foundations Associate
 
