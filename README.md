@@ -2,16 +2,20 @@
 
 Welcome to my GitHub profile!
 
+RESUME: [G-Drive](https://drive.google.com/file/d/1KGsmof6iaBs1AVWg4fkU_8AVToDpxQJo/view?usp=drive_link)
+
 ## 🚀 About Me
-- Software Developer and problem solver
-- Always eager to explore new technologies and approaches
-- AWS Certified Cloud Practitioner
+- Upcoming Systems Engineer @TCS
+- Ex SDE Intern @Waste Samaritan, Frontend Intern @Valocoach.ai
+- Always eager to explore and learn new technologies & approaches
+- AWS Certified Cloud Practitioner, Oracle Certified Foundations Associate
+
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Java, Python, JavaScript
-- **Cloud & Infrastructure:** AWS (EC2, S3, Lambda, DynamoDB, CLI, CloudWatch, EventBridge, API Gateway, CloudFormation), Terraform, Linux
-- **Frameworks/Libraries:** NodeJs, Express, ReactJs, Machine Learning
-- **Tools:** SQL, Git/Github, Docker, Kubernetes, Postman
+- **Languages:** Java, Python, JavaScript, C
+- **Cloud & Infrastructure:** AWS (EC2, S3, Lambda, DynamoDB, CLI, CloudWatch, EventBridge, API Gateway, CloudFormation), IaC, Linux
+- **Frameworks/Libraries:** Node.js, Express.js, React.js, 
+- **Technologies:** SQL, Git/Github, Docker, Kubernetes, Kafka, Machine Learning
 
 ## 🏅 Certifications
 - AWS Certified Cloud Practitioner (Amazon Web Services)
